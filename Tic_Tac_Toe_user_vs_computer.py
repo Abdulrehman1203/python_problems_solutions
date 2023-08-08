@@ -55,7 +55,7 @@ def tic_tac_toe():
 
     board = [0, 1, 2, 3, 4, 5, 6, 7, 8]
     player = "X"
-    #computer = "$"
+
 
     while True:
         """Loop for running the turns of players and computer"""
