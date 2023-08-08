@@ -9,7 +9,7 @@ try:
     A palindrome number is one that reads the same forwards and backwards.
     """
 
-    # Get an integer input from the userg
+    # Get an integer input from the user
     user_input = int(input("Enter the number :"))
 
     clone_input = user_input  # Store the original number for comparison later
